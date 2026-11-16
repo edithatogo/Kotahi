@@ -1,4 +1,4 @@
-FROM cokoapps/base:20
+FROM cokoapps/base:20@sha256:a452b6d8dd8f2b2003fc627a58a3d1502ee9fe8245255985cdceaa9cfefcb882
 
 WORKDIR /home/node/app
 
